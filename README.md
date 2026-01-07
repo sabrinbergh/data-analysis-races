@@ -1,4 +1,4 @@
-# Data Analysis — Ultra Running Races
+# Data Analysis - Ultra Running Races
 
 Analyse exploratoire de données (EDA) réalisée à partir d’un dataset réel, avec un focus sur les courses d’ultra-running aux États-Unis en 2020 (distances 50 km et 50 miles).
 
